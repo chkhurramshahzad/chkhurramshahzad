@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khurram Shahzad</h1>
 <h3 align="center">A passionate Flutter Developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Flutter,Dart,Machine Learning,Data Science**
+- 🌱 I’m currently learning **Flutter,Dart,Node.js,Machine Learning,Data Science**
 
 - 👨‍💻 All of my projects are available at [https://chkhurramshahzad.github.io/portfolio/](https://chkhurramshahzad.github.io/portfolio/)
 
